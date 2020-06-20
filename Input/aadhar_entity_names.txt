@@ -1,0 +1,971 @@
+Nivedita Menon	1
+M.S. Swaminathan	1
+A.K. Shiva Kumar	1
+Amiya Kumar Bagchi	1
+Lawrence Liang	1
+Reetika Khera	1
+Farah Naqvi	1
+R. Nagaraj	1
+K. Srinath Reddy	1
+Kiran Bhatty	1
+Jawaharlal	1
+Nikhil Dey	1
+S.S. Gill	1
+Jean Drze	1
+Sharmila Tagore	1
+Nandan Nilekani	1
+Ramesh SharmaEvidence	1
+Jean Drze	1
+Dipak Misra	1
+Suhrith Parthasarthy	1
+T.S. Thakur	1
+J. Chelameswar	1
+Javadekar	1
+Donald Trump	1
+Amit Verma	1
+Sandeep Kumar Meena	1
+Indira Gandhi	1
+Manmohan Singh	1
+Chairmen	1
+Baba Rao Sawant	1
+Krishna Kumar Sharma	1
+Dinesh Tyagi	1
+Ujjwala	1
+Ravi Shankar Prasad	1
+Sameer Sawant	1
+Sajid Shaikh	1
+Prashant Kishor	1
+Piyush Goyal	1
+Anil Sinha	1
+Manish Tiwari	1
+Rakesh Asthana	1
+Arun Jaitley	1
+Maulana Mahmood Madani	1
+Arvind Gupta	1
+Narendra Modis	1
+Paul KrugmanIndia	1
+Narendra Modi	1
+Abdul Basit	1
+Arvind Subramanian	1
+Chinmayi Arun	1
+Navi Pillay	1
+B.R. Ambedkar	1
+Centre	1
+Kaushik Basu	1
+Narendra Modi	1
+S. Jaishankar	1
+Franois Hollande	1
+Pranab Mukherjee	1
+Jacques Chirac	1
+Barack Obama	1
+Serge Kampf	1
+Nandan Nilekani	1
+Jairam Ramesh	1
+Soli Sorabjee	1
+Prashant Bhushan	1
+Reetika Khera	1
+Arun Jaitley	1
+Yashwant Sinha	1
+Abhishek Manu Singhvi	1
+Anil Sinha	1
+Manish Tiwari	1
+Arun Jaitley	1
+Prashant Kishor	1
+Rakesh Asthana	1
+Maulana Mahmood Madani	1
+Piyush Goyal	1
+Chinmayi Arun	1
+Faizan Mustafa	1
+Maneka Gandhi	1
+Siddharth Nayak	1
+Gautam Bhatia	1
+Rajagopala Ayyangar	1
+Satish Chandra	1
+Karuna Nandy	1
+Mukul Rohatgi	1
+J. Chelameswar	1
+Centre	1
+Karan Johar	1
+Mishi Choudhary	1
+Raja Ram Pal	1
+M.R. Madhavan	1
+Saeed Siddiqui	1
+Amarinder Singh	1
+Ram Pal	1
+Li Keqiang	1
+Milton Friedman	1
+Robert Lucas	1
+Donald Trump	1
+Diana Edulji	1
+Sunil Gavaskar	1
+Kiran Babasaheb Ransing	1
+Ranjit Kumar Paul	1
+Panneerselvam	1
+Masood Azhar	1
+Jamsheed Akthar	1
+O. Pannerselvam	1
+Narendra Modis	1
+Modi	1
+K. Stalin	1
+V.K. Sasikala	1
+Chinmayi Arun	1
+Ashley Madison	1
+Arun Jaitley	1
+Ravi Shankar Prasad	1
+Giani Zail Singh	1
+Shashi Tharoor	1
+Indira Gandhi	1
+Jack Balkin	1
+Marissa Mayer	1
+Alvaro Uribe	1
+Juan Manuel Santoss	1
+Nikhil Dey	1
+Jean Drze	1
+Narendra Modi	1
+M. Venkaiah Naidu	1
+Barack Obama	1
+David Cameron	1
+Jan-Dhan Yojana	1
+Nawaz Sharif	1
+Arvind Panagariya	1
+Narendra Modi	1
+Mahatma Gandhi	1
+Mulayam Singh	1
+Kaushik Balakrishnan	1
+Akhilesh Yadav	1
+Ravi M. Singh	1
+Gaurav Singhal	1
+Pushpa Dorai	1
+T. Anand Raj	1
+Nikhil Akhilesh Krishnan	1
+Mukesh Kumar	1
+R.S. Sharma	1
+N.N. Sinha	1
+Jagai Lakda	1
+Ravi Kumar	1
+S. Ghosal	1
+Arvind Subramanian	1
+P. Chidambaram	1
+Arun Jaitley	1
+Ashok V. Desai	1
+Jan Dhan	1
+Montek Singh Ahluwalia	1
+Narasimha Rao	1
+J.S. Khehar	1
+Arun Jaitley	1
+Abdul Kalam	1
+Rahul Gandhi	1
+Oscar Fernandes	1
+Suman Dubey	1
+Moti Lal Vora	1
+Sonia Gandhi	1
+Satyan G Pitroda	1
+Rajiv Gandhi	1
+Arvind Kejriwal	1
+G. Devasahayam	1
+V. Visvanathan	1
+John Rawlss	1
+N. Gopalaswami	1
+Nandan Nilekanis	1
+Narendar Pani	1
+Chidambaram	1
+Manmohan Singh	1
+N. Ram	1
+Navin Agarwal	1
+V.K. Singh	1
+Salman Rushdie	1
+S.G. Vombatkere	1
+R.S. Sharma	1
+Further	1
+Nilekani	1
+Thotakura Suryakantam	1
+Jyothi Alamadamu	1
+Thotakura Ratnam	1
+G. David Milton	1
+Hong KongHyderabad	1
+Sardar Patel	1
+Asif Ali Zardari	1
+Pranab Mukherjee	1
+Usha Ramanathan	1
+Mahmood Alam	1
+Rajesh Kumar	1
+Tulsi Koeri	1
+Amitabh Kaushal	1
+Gautam Bhatia	1
+S.K. Kaul	1
+J. Chelameswar	1
+D.Y. Chandrachud	1
+Theresa May	1
+Suhrith Parthasarathy	1
+Jacob Zuma	1
+P. Chidambaram	1
+P. Rajeev	1
+Pranab Mukherjee	1
+K.S. Puttaswamy	1
+Discipline	1
+S.G. Vombatkere	1
+Narendra Modi	1
+Pranab Mukherjee	1
+Pandit Jawaharlal Nehru	1
+Pandey	1
+Nandan Nilekani	1
+Rajmohan Gandhi	1
+Gopalkrishna Gandhi	1
+James Cameron	1
+Nandan Nilekani	1
+Manmohan Singh	1
+Gopal Gandhi	1
+Nandan Nilekani	1
+Arun Jaitley	1
+Stalin	1
+Milton Friedman	1
+Hitler	1
+Arun Jaitley	1
+Praveen Chakravarty	1
+Manmohan Singh	1
+Sonia Gandhi	1
+Eugene Wigner	1
+Yashwant Sinha	1
+Anil Ambani	1
+Nandan Nilekani	1
+Shekhar Gupta	1
+Balakrishnan	1
+Amit ChakravartyIn	1
+Ashok Gehlot	1
+Dinesh Rajghoda	1
+Ashok Gulati	1
+Rana Pratap	1
+Vasundhara Raje	1
+David Blunkett	1
+Tony Blair	1
+Nandan Nilekani	1
+Manmohan Singh	1
+R. Ramakumar	1
+Rajeev Chandrashekhar	1
+Mathew Thomas	1
+Zoheb Hossain	1
+Aruna Roy	1
+Nandan Nilekani	1
+S.G. Vombatkere	1
+G.E. Vahanvati	1
+K.S. Puttaswamy	1
+Mohan Parasaran	1
+Arun Jaitley	1
+Mahendra Singh Dhonis Aadhaar	1
+Ravi Shankar Prasad	1
+Sakshi Singh	1
+Archana Dureja	1
+Sameer Kochhar	1
+Rajiv Gandhi	1
+Aam Aadmi	1
+Nandan Nilekani	1
+Rajat Mohan Pathak	1
+Narendra Modi	1
+Charles MacKays	1
+Mathew Thomas	1
+Aadhaar	1
+Sonia Gandhi	1
+Kapil Sibal	1
+Salman Khurshid	1
+Ambrose Pinto	1
+Rahul Gandhi	1
+Shakuntala Devi	1
+Soma Solanki	1
+Anand Kumar	1
+Anjali Sehrawat	1
+Paras Singh	1
+Nandan Nilekani	1
+Donald Trumps	1
+Jan Dhan	1
+Nitin Gadkari	1
+Thurgood Marshall	1
+Johns Magna Carta	1
+Arun Shourie	1
+Chidu	1
+Gadkari	1
+Churchill	1
+Feroze Gandhi	1
+George Fernandes	1
+Arun Jaitley	1
+Jaswant Singh	1
+Pratap Bhanu Mehta	1
+Nripendra Misra	1
+Nandan Nilekani	1
+Amitabh Kant	1
+Jan Dhan	1
+Narendra Modi	1
+Narendra Modi	1
+Paul Romer	1
+Shashi Arora	1
+Ratan Watal	1
+Narendra Modi	1
+Jan Dhan	1
+Narendra Modis Jan Dhan Yojana	1
+Jeffrey Immelt	1
+Jan Dhan	1
+Aadhaar	1
+Jan Dhan	1
+Rajiv Gandhi	1
+Narendra Modis	1
+Narendra Modi	1
+Jaitley	1
+Jan Dhan Yojana	1
+Margaret Thatcher	1
+Arun Jaitleys	1
+Ruth Goodwin-Groen	1
+Sanjiv Shankaran	1
+Sonia	1
+David Cameron	1
+Nandan Nilekani	1
+Gordon Brown	1
+Sunil Junior	1
+Jean Dreze	1
+Montek Singh Ahluwalia	1
+Rajnath Singh	1
+Rahul Gandhi	1
+Jan Dhan Yojana	1
+Jan Dhan	1
+Narendra Modi	1
+Rohit Kumar Burman	1
+Julee Rajput	1
+Nritya Gopal	1
+Panku Baiga	1
+Mangal Baiga	1
+Priyanka Sharma	1
+Omkar Singh Marari	1
+Kejriwal	1
+Rahul Gandhi	1
+Rao Saheb	1
+Modi	1
+Chidambaram	1
+Arun Jaitley	1
+Gholam Mustafa	1
+Rehana Khatoon	1
+Md Ramjani	1
+Laddo Ramjanis	1
+Feroz	1
+Jairam Ramesh	1
+Bharat Bhatti	1
+Reetika Khera	1
+Neelakshi Mann	1
+Jean Drze	1
+Jan Dhan	1
+Ronald Reagan	1
+Danny Kaye	1
+Kanhaiya Kumar	1
+Margaret Thatcher	1
+Eli Wallach	1
+Carl Reiner	1
+Arun Jaitley	1
+Ahmed Mohamed	1
+Sanjay Gandhi	1
+Indira Gandhi	1
+Mahesh Sharma	1
+Mohammad Akhlaqs	1
+Indira Gandhis	1
+Rajiv Gandhi	1
+Barack Obama	1
+Amit Shah	1
+Smriti Irani	1
+Umar Khalid	1
+Kanhaiya Kumar	1
+Mark Antony	1
+Shravan Garg	1
+Li Keqiang	1
+Jan Dhan	1
+Arun Jaitley	1
+Rahul Gandhi	1
+Raghuram Rajan	1
+Jacob Appelbaum	1
+Chidambaram	1
+Edward Bellamy	1
+Ralph Schneider	1
+Frank McNamara	1
+Gary Larsen	1
+Manvinder Singh Banga	1
+Harbhajan Singh Banga	1
+Arvind Kejriwals Aam	1
+Rahul Gandhi	1
+Rahul Gandhis	1
+Sonia Gandhi	1
+Thomas	1
+Once	1
+Ashwani Mahajan	1
+Alec Smart	1
+Shailesh Sharma	1
+Nandan Nilekani	1
+Sanjay Sahni	1
+Sanjay Sahnis	1
+Nandan Nilekani	1
+Jan Dhan Yojana	1
+Sonia Gandhi,etc	1
+Barack Obamas	1
+Sharad Pawar,Sonia Gandhi	1
+Zakir Naik	1
+Anna Hazare	1
+Akram BangaloreFor	1
+Jesus Christ	1
+bin Laden	1
+Rafael Nadal	1
+Nandan Nilekani,or	1
+P. Chidambaram	1
+Centre	1
+Mamata Banerjee	1
+Mulayam Singh	1
+Rahul Gandhi	1
+Pranab Mukherjee	1
+Pranab Mukherjee,by	1
+Manmohan Singh	1
+P. Chidambaram	1
+Ram Madhav	1
+Manmohan Singh	1
+Sonia Gandhi	1
+Satyapal Singh	1
+Dara Hanuman Singh	1
+Vishnu	1
+Azad Maidan	1
+Arun Govil	1
+Raj Thackerays	1
+Jed Rakoff	1
+Pratap Bhanu Mehta	1
+Rajat Gupta	1
+Vijay Mallya	1
+Bill Clinton	1
+Arvind Subramaniam	1
+Rajiv Gandhi	1
+Narendra Modis	1
+Narendra Modi	1
+Jan DhanYojana	1
+Nelatur Syamasundaram	1
+Jawaharlal Nehru	1
+Indira Gandhi	1
+Rajiv Gandhi	1
+Rajiv Gandhis	1
+Narendra Modis	1
+Mahesh	1
+Narendra Modi	1
+Praveen Khanna	1
+Manmohan Singh	1
+Narendra Modi	1
+Sushant Singh	1
+Jan Dhan	1
+Nitin Gadkari	1
+Nandan Nilekani	1
+Jan Dhan	1
+Jan Dhan	1
+Narendra Modi	1
+Gurumurthy	1
+Manmohan Singh	1
+Jan Dhan	1
+Taj Mahals	1
+Now Rajan	1
+Ashok Desais	1
+P. Chidambaram	1
+Mamata Banerjee	1
+Rahul Gandhi	1
+Behenji	1
+Shivraj Singh	1
+Rahul Gandhis	1
+Shivraj Singh Chauhan	1
+Seshadri Chari	1
+Sharad Pawar	1
+Nitin Gadkari	1
+Pawan Bansal	1
+Narendra Modi	1
+Nandan Nilekani	1
+Aruna Roy	1
+Ravi Shankar Prasad	1
+Chandrababu Naidu	1
+Mukul Rohatgi	1
+Harishchandra Babu	1
+Rajeev Chandrashekhar	1
+Jairam Ramesh	1
+Raja Ram	1
+Lok Sabha	1
+Jairam Ramesh	1
+Suhrith Parthasarathy	1
+Ram Pal	1
+Saeed Siddiqui	1
+Veena Shenoy	1
+Venkata Subbarao Gurram	1
+David MiltonMaruthancode	1
+Maneka Gandhi	1
+Women	1
+Indira Gandhi Matritva Sahyog Yojana	1
+Jean Drze	1
+Narendra Modi	1
+Anna Bhagya	1
+Siddaramaiah	1
+Ujjwal Discom Assurance Yojana	1
+Gurmehar Kaur	1
+Sakshi	1
+Narendra Modi	1
+Janu	1
+Pranab Mukherjee	1
+Ghulam Nabi Azad	1
+Jairam Ramesh	1
+Vijay Sardesai	1
+Conrad Sangma	1
+Manmohan Singh	1
+Sonia Gandhi	1
+Modi	1
+Arun Jaitley	1
+Yesterday	1
+Kay Benedict	1
+Mridula Sinha	1
+Shyam Divan	1
+Rohtagi	1
+Srinivas Kodali	1
+Mukul Rohatgi	1
+Pratap Bhanu Mehta	1
+Nandan Nilekani	1
+Jean Dreze	1
+Nikhil Pahwa	1
+Arun Jaitley	1
+Jan Dhan	1
+Kay Benedict	1
+Jan Aushadhi Yojana	1
+Narendra Modi	1
+Aruna Sundararajan	1
+Mukul Rohatgi	1
+Narendra Modi	1
+Centre	1
+Gopalkrishna Gandhi	1
+Nikhil Dey	1
+Classifying Aadhaar	1
+Kalraj Mishra	1
+Modi	1
+Shah	1
+Sanjiv Shankaran	1
+Rajiv Gandhis	1
+Nandan Nilekani	1
+V. Raghunathan , V	1
+Gandhi Vadra	1
+Donald Trump	1
+Barack Obama	1
+Sonia Maut	1
+Modi	1
+Nawaz Sharif	1
+Arun Jaitley	1
+Ravi Shankar Prasad	1
+Hillary Clinton	1
+Donald Trump	1
+Kim Jung-Un	1
+Mukul Rohatgi	1
+Mukul Rohatgis	1
+Veerappa Moily	1
+Syed Sultan Mohiddin	1
+Nandan Nilekani	1
+Ban Ki-moon	1
+Amal Bosco	1
+Brinda Karat	1
+Amit Sankhla	1
+Mukul Rohatgi	1
+Arvind Kejriwal	1
+Rajiv Gandhi	1
+Monu Nigam	1
+Vijay Mallya	1
+Arun Mohan Sukumar	1
+S. Jaishankar	1
+Narendra Modi	1
+Mukul Sanwal	1
+Dhiraj Nayyar	1
+Margaret Thatcher	1
+Narendra Modis	1
+Modi	1
+Ronald Reagan	1
+Niti Aayog	1
+A.K. Doval	1
+Arvind Datar	1
+Ajay Pandey	1
+Arvind Subramanian	1
+Narendra Modi	1
+Donald Trumps	1
+Indira Gandhi	1
+Rajiv Gandhi	1
+Narasimha Raos	1
+Bill Gates	1
+Jay Panda	1
+Salman	1
+Aamir	1
+Mahatma Gandhi	1
+Indira Gandhis	1
+Jinnah	1
+Yashwant Sinha	1
+Amit Shah	1
+Mathew Thomas	1
+Jan Dhan Yojana	1
+Shanta Sinha	1
+Aruna Roy	1
+Nikhil Dey	1
+Narendra Modi	1
+Nandan Nilekani	1
+Arun Jaitley	1
+Jayant Sinha	1
+Sanjay Jain	1
+Sharad Sharma	1
+Nandan Nilekani	1
+Sameer Kochhar	1
+Narendra Modi	1
+Venkaiah Naidu	1
+Pranab Mukherjee	1
+Piyush Goyal	1
+Hamid Ansari	1
+Dakhu Devi	1
+Hemant Kanakia	1
+Indira Gandhi	1
+Elif Safak	1
+Suhrith Parthasarathy	1
+Arvind P. Datar	1
+Ronald Dworkin	1
+Singaravelu	1
+H.M. Seervai	1
+Anuj Bhuwania	1
+Indira Gandhi	1
+Krishna Iyer	1
+P.N. Bhagwati	1
+Upendra Baxi	1
+Patanjali Sastri	1
+Sanjay Hegde	1
+Mukul Rohatgi	1
+Rohini	1
+Manmohan Singh	1
+Narendra Modi	1
+Lalu Prasad	1
+Bt	1
+Arvind Panagariya	1
+Manmohan Singh	1
+Economists Jagdish Bhagwati	1
+Eric Arthur Blair	1
+George Orwells	1
+Baijayant Jay Panda	1
+Jan Dhan	1
+Sachin Tendulkar	1
+Jan Dhan Yojana	1
+Narendra Modi	1
+Thomas Babington Macaulay	1
+Richard Nixon	1
+Milton K Konwitz	1
+Edge	1
+Satish Chandra	1
+Percy H Winfield	1
+Kautilya	1
+Eben Moglen	1
+Mishi Choudhary	1
+Liu Xiaobo	1
+Constitution	1
+Ajay Bhushan Pandey	1
+Ronald Abraham	1
+Shreya Dubey	1
+Akash Pattanayak	1
+Franz Kafka	1
+Venkaiah Naidu	1
+George Orwell	1
+Narendra Modi	1
+Goolam Vahanvati	1
+Satish Chandra	1
+Sundar Sarukkai	1
+Abdullah	1
+Kovind	1
+Manmohan Singh	1
+Rajiv Gandhi	1
+Sonia Gandhi	1
+Modi	1
+Vajpayee	1
+Amit Shah	1
+Neeraj Grover	1
+Soli Sorabjee	1
+Arun Jaitley	1
+Narendra Modi	1
+Khehar Singh	1
+Vajpayee	1
+Tim Berners-Lee	1
+Joe	1
+Jack Reacher	1
+James Penney	1
+Tom Cruise	1
+Gabriel Allon	1
+Daniel Silva	1
+Charles Dickens	1
+Dick Francis	1
+REACHER SHORT STORIES	1
+Lee Child	1
+Peter O'Donnell	1
+Fidel Castro	1
+Yogi Adityanath	1
+Mahatma Gandhi	1
+Shashi Tharoor	1
+Aung San Suu Kyi	1
+Azeem Ibrahim	1
+Indranil Sanyal	1
+P.V. Sindhu	1
+Prakash Padukone	1
+Ram Rahim Singh	1
+Saina Nehwal	1
+Sriram Mishra	1
+Surendra Mishra	1
+H.S. Prannoy	1
+Sura Baba	1
+Jyoti Prakash Sahu	1
+Santosh Raul	1
+Gurmeet Ram Rahim Singh	1
+Kidambi Srikanth	1
+Narendra Modi	1
+Jaya Roy	1
+Dukhi Mondal	1
+Pujya Prakash	1
+Diwakar MondalArrested	1
+Chandra Vidyasagar	1
+Mithun Mondal	1
+Krishna Dutt Jha	1
+Diwakar Mondal	1
+G. David Milton	1
+D.Y. Chandrachud	1
+Jai Prakash Gupta	1
+Lal Bahadur Shastri	1
+Charles Evans Hughes	1
+Fazl Alis	1
+Sanjay Kishan Kaul	1
+Subba Raos	1
+Satish Chandra	1
+Bench	1
+Suhrith Parthasarathy	1
+Rohinton F. Nariman	1
+Hendrik Verwoerd	1
+Keith Breckenridge	1
+D.Y. Chandrachuds	1
+Gautam Bhatia	1
+Giorgio Agamben	1
+Jean Amry	1
+Hannah Arendt	1
+Mahatma Gandhi	1
+Michel Foucault	1
+Empire	1
+Hind Swaraj	1
+Sivaji	1
+Edward Lutyens	1
+Ram	1
+Audrey Tautou	1
+Modi	1
+Sunny Leonardo Chaturvedi	1
+Van de Mataram	1
+Maoshoeme Chakrabatty Khan	1
+Friedrich Nietzsche	1
+Santoshi (Chando) Kumari	1
+John Jaani Janardhan	1
+Narendra Modi	1
+Indira Gandhi	1
+Manmohan Singh	1
+Dipak Misra	1
+K.K. Venugopal	1
+Winston Smith	1
+Deng Xiaoping	1
+Mao Zedong	1
+George Orwells	1
+Sajjad Ahmed Abdul	1
+Ahmed Abdul Aziz Mugal (Pathan)	1
+Sajjad Ahmed Abdul Aziz	1
+D. Padsalgikar	1
+Pallavi	1
+Narendra Modi	1
+Santoshi Kumari	1
+Amit Jaju	1
+Abhijit Bhatlekar	1
+Nandan Nilekani	1
+John Kingdons	1
+Chandrababu Naidu	1
+Narendra Modi	1
+Ami Bhi Paribu	1
+Nava Jatan	1
+Narendra Modi	1
+Arun Shourie	1
+Canute	1
+Arun Jaitley	1
+Brian Glanville	1
+Yashwant Sinha	1
+Rajiv Bajaj	1
+Arun Jaitley	1
+Jyoti Basu	1
+Ghulam Nabi Azad	1
+Jairam Ramesh	1
+Sitaram Yechury	1
+Kapil Sibal	1
+Sharad Yadav	1
+P. Chidambaram	1
+Roosevelt	1
+Jayachandran	1
+Amitabh Kant	1
+Indranil Bhoumik	1
+Ronald Abraham	1
+Shreya Dubey	1
+Akash Pattanayak	1
+Stephen G. Cecchetti	1
+Jan Dhan Yojana	1
+Alexander Solzhenitsyn	1
+Constitutional	1
+Sanjay K Kaul	1
+Shankkar Aiyar	1
+Niren De	1
+Donald Trump	1
+Rajiv Gandhi	1
+Nandan Nilekani	1
+Noah Smith	1
+Ajit Ranade	1
+Monika Halan	1
+Mint	1
+R.M. Vishakha	1
+Jan Dhan	1
+Aniruddha Chowdhury	1
+Brotin Banerjee	1
+Rahul Matthan	1
+Rajrishi Singhal	1
+Arun Jaitley	1
+Suhrith Parthasarathy	1
+Nandan Nilekani	1
+Khaira	1
+Indranil Bhoumik	1
+Ronald Abraham	1
+Akash Pattanayak	1
+Justin Trudeau	1
+Ajay Bhushan Pandey	1
+Arun Mohan Sukumar	1
+B.N. Srikrishna	1
+Parag Mathur	1
+A.P. Shah	1
+B.N. Srikrishna	1
+Nandan Nilekani	1
+Henry Ford	1
+Nandan Nilekani	1
+Kiran Jonnalagadda	1
+Nandan Nilekani	1
+Henry Ford	1
+Jesus Christ	1
+Salman Khans	1
+Henry Cole	1
+George ByMachimanda	1
+Ronald Reagan	1
+Nandan Nilekani	1
+Charles de Montesquieu	1
+Venugopal	1
+Thomas Hobbes	1
+Misra	1
+Chandrachud	1
+Navin Sinha	1
+R.K. Agrawal	1
+C. Nagappan	1
+S.K. Kaul	1
+J.S. Khehar	1
+A.K. Goel	1
+Amitava Roy	1
+U.U. Lalit	1
+Kalikho Pul	1
+S.A. Bobde	1
+Arun Mishra	1
+Ranjan Gogoi	1
+J. Chelameswar	1
+Rohinton F. Nariman	1
+S. Abdul Nazeer	1
+Nandan Nilekani	1
+Ravi Shankar Prasad	1
+Srikrishna	1
+Nandan Nilekani	1
+Jan Dhan	1
+Santoshi	1
+Shashi Kapoor	1
+Shah Rukh Khan	1
+Sachin Tendulkars	1
+Narendra Modi	1
+Katrina Kaif	1
+Sunny Leone	1
+Salman Khan	1
+Commando Praveen Kumar Teotia	1
+Saif Ali Khan	1
+Rahul Gandhi	1
+Suhana	1
+Armaan Jaffer	1
+Prem Nath Pandey	1
+Yashwant Sinha	1
+Arun Jaitley	1
+Alia Bhat	1
+Pratap Bhanu Mehtas	1
+Akshay Kumar	1
+Neeraj Priyadarshi	1
+Patrick Patterson	1
+Jack Mas Michael Jackson	1
+Yashwant Sinhas	1
+Manushi Chillar	1
+Vinod Khanna	1
+Kareena Kapoor	1
+Raju Rajagopal	1
+Arvind Subramanian	1
+Ajit Ranade	1
+Santoshi Kumari	1
+Jean Dreze	1
+Renuka Chowdhurys	1
+Modi	1
+Narendra Modis	1
+Diwakar Prasad Tiwari	1
+Mark Zuckerberg	1
+D.Y. Chandrachud	1
+Suhrith Parthasarathy	1
+R.F. Nariman	1
+Mark Zuckerberg	1
+Graham Greenleaf	1
+Mahatma Gandhi	1
+Dayamani Barla	1
+Sukran Munda	1
+)	1
+Sukhram Munda	1
+Bandi Oraon	1
+Sanjay Kumar Azad	1
+Raghubar Das	1
+Kunwar Keshri Sinh	1
+Samuel Purti	1
+Hemant Soren	1
+Draupadi Murmu	1
+Kunwar Ravindra Sinh	1
+Kali Munda	1
+Shantimoy Hembrom	1
+Vijay Kujur	1
+Balram Samad	1
+Ranjit Soy	1
+John Junas Tiru	1
+Bir Birsa Munda	1
+Sati Pati	1
+Ajay Bhushan Pandey	1
+Venugopal	1
+Anuradha Verma	1
+Wang Huning	1
+Jiang Zemin	1
+Xi Jinping	1
+Modi	1
+Xi Jinpings	1
+Amit Shah	1
+Jal Samadhi	1
+Dipak Misra	1
+Ram	1
+Markandey Katju	1
+Helen Nissenbaum	1
+Kate Crawford	1
+Rahul Matthan	1
+Krishna	1
+Arun Jaitley	1
+Jean Dreze	1
+John Maynard Keynes	1
+Shatrughan Sinha	1
+Edward Snowden	1
+Mark Zuckerberg	1
+Kulbhushan Jadhav	1
+Ali Abbas Zafar	1
+Narendra Modi	1
+Jean Drze	1
+Jan DhanAadhaarMobile	1
+Shweta S Banerjee	1
+John Kenneth Galbraith	1
+Roger Needham	1
+Nandan Nilekani	1
+Narendra Modi	1
+Rene Descartes	1
+Sonia Gandhi	1
+Indira Jaising	1
+Kamla	1

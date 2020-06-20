@@ -1,0 +1,111 @@
+Narendra Modi	1	bjp
+Amit Shah	1	bjp
+Arun Jaitley	1	bjp
+Yogi Adityanath	1	bjp
+Sonia Gandhi	1	inc
+Rahul Gandhi	1	inc
+Rajnath Singh	1	bjp
+Piyush Goyal	1	bjp
+Nitish Kumar	1	jdu
+Mamata Banerjee	1	tmc
+Sushma Swaraj	1	bjp
+Shivraj Chouhan	1	bjp
+Devendra Fadnavis	1	bjp
+Nitin Gadkari	1	bjp
+Amarinder	1	inc
+Venkaiah Naidu	1	bjp
+Krishna Gopal	1	sp
+Vasundhara Raje	1	bjp
+Subramanian Swamy	1	bjp
+Ravi Shankar Prasad	1	bjp
+Prakash Javadekar	1	bjp
+Dharmendra Pradhan	1	bjp
+Arvind Kejriwal	1	aap
+Raman Singh	1	bjp
+Ghulam Nabi Azad	1	inc
+Mehbooba Mufti	1	pdp
+Himanta Biswa Sarma	1	bjp
+Siddaramaiah	1	inc
+Ram Madhav	1	bjp
+Lalu Prasad	1	rjd
+Pinarayi Vijayan	1	cpim
+Chandrababu Naidu	1	tdp
+Mayawati	1	bsp
+Prashant Bhushan	1	aap
+Chidambaram	1	inc
+Asaduddin Owaisi	1	aimim
+ML Khattar	1	bjp
+Akhilesh Yadav	1	sp
+Naveen Patnaik	1	bjd
+Subhash Chandra	1	none
+Kiren Rijiju	1	bjp
+Uddhav Thackeray	1	ss
+MK Stalin	1	dmk
+JP Nadda	1	bjp
+Chandrasekhar Rao	1	trs
+Ahmed Patel	1	inc
+Sharad Pawar	1	ncp
+Mallikarjun Kharge	1	inc
+Kapil Sibal	1	inc
+Sachin Pilot	1	inc
+Ram Jethmalani	1	rjd
+Sarbananda Sonowal	1	bjp
+Vijay Rupani	1	bjp
+Suresh Prabhu	1	bjp
+Sasikala	1	aiadmk
+Omar Abdullah	1	jknc
+Hardik Patel	1	none
+Nripendra Misra	1	ias
+PK Mishra	1	ias
+Jaishankar	1	ias
+Hasmukh Adhia	1	ias
+Arvind Kumar Sharma	1	ias
+Rajiv Mehrishi	1	ias
+Ajit Doval	1	advisor
+Bipin Rawat	1	advisor
+Arvind Subramanian	1	advisor
+Urjit Patel	1	advisor
+Arvind Panagariya	1	advisor
+Nasim Zaidi	1	advisor
+Mukesh Ambani	1	corporate
+Ratan Tata	1	corporate
+NR Narayana Murthy	1	corporate
+Arundhati Bhattacharya	1	corporate
+Sunil Bharti Mittal	1	corporate
+Kumar Mangalam Birla	1	corporate
+Anand Mahindra	1	corporate
+Vishal Sikka	1	corporate
+Anil Ambani	1	corporate
+Azim Premji	1	corporate
+KV Kamath	1	corporate
+Rajiv Bajaj	1	corporate
+JS Khehar	1	judiciary
+Dipak Misra	1	judiciary
+Mukul Rohatgi	1	judiciary
+Chelameswar	1	judiciary
+RM Lodha	1	judiciary
+Virat Kohli	1	celebrity
+Ramdev	1	celebrity
+Aamir Khan	1	celebrity
+Shah Rukh Khan	1	celebrity
+Kangana Ranaut	1	celebrity
+Karan Johar	1	celebrity
+Salman Khan	1	celebrity
+Priyanka Chopra	1	celebrity
+Mohan Bhagwat	1	none
+Fali Nariman	1	none
+Vinod Rai	1	none
+Soli Sorabjee	1	none
+APJ Abdul Kalam	0	academician
+Abhijit Vinayak Banerjee	0	academician
+Amartya Sen	0	academician
+Arvind Panagaria	1	academician
+Bibek Debroy	0	academician
+Brahma Chellaney	0	academician
+Jagdish Bhagwati	0	academician
+Jayati Ghosh	0	academician
+Jean Dreze	0	academician
+Kaushik Basu	0	academician
+Madhav Gadgil	0	academician
+Mahmood Mamdani	0	academician
+Raghuram Govind Rajan	0	academician

@@ -1,0 +1,111 @@
+Narendra,Modi,Modis,Narindra Modi,Modi-led,Modiji,Prime Minister,pm,prime,Modi,prime,pm,modiji,modi,ji,narendraji,narendra,narender,prime minister,modis
+Amit Shah,amit,shah,amitji,shahji,shahbjp,president,amit ji,shahs
+Arun,Jaitley,Arun Jaitleys,Arun Jaitley,Jaitleyji,Arunji,finance,finance minister,fm,jaitleys,aruns
+Yogi,Adityanath,Yogiji,chief minister,chief,cm
+Sonia Gandhi,Sonia,Soniaji,Gandhis,Gandhiji
+rahul,rahulji,gandhiji,president,rahul ji,gandhi ji,Gandhi-led,rahul gandhi
+Rajnath Singh,Rajnath,Singhs,Rajnath Singhji,singhji,rajnathji,Rajnath Singhs,Rajnath,home minister,hm,home
+Piyus,goyalji,Goyal,Piyush Goyal,Piyush Goel,Goel,Piyushji,goyals,goels
+Nitish Kumar,Kumars,Nitesh,Kumarji,niteshji,Nitish,kumar,Nitishji,Niteshji,cm,chief minister,chief
+Mamata Banarjee,Mamataji,Banerjeeji,Mamata,didi,Mamataji,Banerjee,Banerjees,Mamata Banerji,Banerji,cm,chief,chief minister,mamta,mamata,baneerjee,banerji,Mamata Banerji,mamataji,mamata ji,mamtaji
+Sushma Swaraj,Sushma Swarajs,sushma,swaraj,sushmaji,external,affairs,affair
+Shivraj Singh Chouhan,Shivraj,Shivraj,Chouhans,Singhji,Chouhanji,Shivaji,Shivrajji,Chauhan,Shivraj,Chouhan,cm,chief minister,chief,Chauhanji
+cm,chief minister,chief,Fadnavis,Devendra Fadnavsis,Devendra,Devendraji,Fadnavsisji,Fadnavis,Devendra Fadvnavis,Devendra Fadnavis
+Nitin Gadkari,Nitin Gaur,Nitin Garg,Nitin Gadkaris,Nitin Gadkari,nitinji,Gadkaris,Gadkari,Gadkariji,union minister,union,highway
+Amarinder Singh,Amarinder,cm,chief minister,chief
+Venkaiah,Naidu,Venkaiah Naidu,Venkaiah,M. Venkaiah Naidu,Venkiah Naidu,Venkaiah Naidu,Naidu,Venkaiah Naid,Venkaiah Naidus,Venakaiah Naidu,naiduji,union,development
+Krishna Gopal,Krishna,Krishna Gopalji,Gopal,krishnaji,secretary,joint
+Vasundhara Raje,Raje,Vasundhara,Vasundhara Rajes,Vasundhra Raje,Vasundhara,cm,chief minister
+Subramanian Swamy,Subramanian,Subramanian,Swamy
+Ravi Shankar Prasad,,Ravishankar Prasad,Ravi Shankar Prassad,Ravishankar,Ravi,Shankar,Prasad
+Prakash Javadekar,Prakash Javadekars,Prakash,Javadekar,MHRD,human resource,Javadekarji
+Dharmendra,Pradhan,Pradhans,Dharmendra Pradhan,Dharmendra Pradhans,Dharmendra Pradhan Sunday,Dharmenda Pradhan
+cm,chief minister,chief,Kejriwal,Arvind Kejriwal,Arvind,Arvindji,Kejriwalji,Kejriwals,Aap
+cm,chief minister,chief,raman,Raman Singh
+Ghulam,Nabi,Azad,Ghulamji,Nabiji,Azadji,Azads,Gulam Nabi Azad,Azad,Ghulam Nabi Azad (Cong),Aza,Ghulam Nabi Azad Ghulam Nabi,Azad Ghulam Nabi,Nabi Azad,cm,chief minister,chief
+Mehbooba Mufti,Mehbooba Muftis,Mufti,Mehbooba,muftiji,Mehboobaji
+Himanta Biswa Sarma,Himanta Biswa Sharma,cabinet,Himanta,Biswa,Sarma,Sarmaji,cabinet
+Siddaramaiah,Siddaramiah,P.C. Siddaramiah,cm,chief,chief minister
+Ram Madhav,Ram Jadhav,Ram Madhavs,ram,madhav,secretary
+Lalu,Prasad,Yadav,Lalu Prasad Yadav,Lalu Prasad,Lalu Yadav,Yadavs,Prasad Yadav,Lalu Prasads,Lalu Prasad-led,Laluji,yadavji,chief
+cm,chief minister,chief,Pinarayi,Vijayan,Pinarayi Vijayan,Pinarayi Vijayans,Pinarayi Vinayan,P. Vimalan,Pinarai Vijayan,Vijayan
+N. Chandrababu Naidu,Chandrababu Naidu,Chandra Babu Naidu,N. Chandrababu Naidus,N. Chandrababu,cm,chief minister,chief,Chandrababu,Naidu,chandra,naiduji
+Mayawati,Mayawati
+Prashant Jha,Prashant Bhushan,Prashant Bhusan,Prashant Dash,Prashant Bhsuhan,Prashant,Bhushan
+Chidamabaram,Palaniappan Chidambaram
+Asaduddin Owaisi,Asaduddin,Owaisi
+
+Akhilesh,Yadav,Yadavji,Akhilesh Yadav,Akhilesh Yadav,Akhilesh,Yadavs,Akhilesh Singh Yadav,Minsiter Akhilesh Yadav,chief,cm
+Naveen Patnaik,Naveen,Pattnaik,Naveen Panaik,Navin Patnaik,Naveen Patnaiks,Naveen,Patnaik,chief,cm
+Subhash Chandra,Subhash,Chandras,Chandra
+Kiren Rijiju,Kiren Rijijus,Kurien,Kiren,Rijijju,chief,cm
+Shiv Sena,Shiv,Senas,Uddhav,Thackeray,Thackerayji,Udhhav Thackeray,Uddhav Thackrey,Uddhav Thackerays,Udhav,Shiv Sena, Shiv Senas Uddhav Thackeray,Shiva Sena,Uddhav Thackeray,Udhhav,thackeray,Uddhav,Thackrey,Uddhav Thackerays,Udhav,sena,Uddhav Thackeray Shiv,Uddhav Thaceray,Thackeray,Uddhav Thackeray Shiv,Uddhav,Thaceray,Uddhav,Thackerays
+K. Stalin,M.K. Stalin,Stalin,Stalin He,M. K. Stalin,Muthuvel,Karunanidhi
+Jagat Prakash Nadda,Nadda,jagat,prakash
+cm,chief minister,chief,K. Chandrasekhar Rao,J. Chandrasekhar,Chandrasekhar Rao,Chandrasekharan,Chandrashekhar,Chandrasekhara Rao,K. Chandrashekar Rao,Chandrasekhar,K.Chandrasekhar Rao,Chandra Rao,Krishna Rao,K. Chandrasekhara Rao,Chandrashekhara, Raos,Chandrashekar,rao
+Ahmed Patel,Ahmad Patel,Patel,ahmed,ahmad
+Sharad,Pawar,Sharad Pawar,Sharad Pawars,Shri Sharad Pawar,Sharads,sharadji,Pawarji,Sharad Pawar-led
+Mallikarjun,Kharge,Mallikarjun Kharge,M. Mallikarjun Kharge,Mallikarjun Kharge (Cong),Mallikarjun Kharges,Rajya Sabha,Sabha,Rajya Sabha Mallikarjun Kharge,Mallikaarjun Kharge,Mallikarjuna
+Kapil Sibal,Sibal,Sibal Kapil,Kapil,Sibals,kapil,education
+Sachin Pilot,sachin,pilot
+Jethlamani,Ram Jethmalani,Raj,Ramu,ram,Jethmalani,lawyer
+Sarbananda Sonowal,Sarbanand Sonowal,Sarbananda,Sonowal,Sarbananda,cm,chief minister,chief
+Vijay Bhatia,Vijay Bhai Rupani,Vijay Rupani,V.M. Vijayan,vijay,rupani
+Suresh Prabhu,Prabha,Suresh Prabh,Suresh Prabhus,suresh,prabhu,railway
+Sasikala Natarajan,Sasikala,Sasikala Natarajan,Nagaraja,Natarajan
+Abdhulla,Abdullah,Farooqji,Omar Abdullah,Omar Abdullahs,Omar
+hardik,Patel,Hardik Patel
+Nirpendra Mishra,Nripendra Misra,Nripendra Mishra,Nripendra,mishra,misra,Nirpendra
+pk,mishra,ias
+Jaishankar,Subrahmanyam,Subramaniam
+Hasmukh Adhia,Hashmukh Adhia,Hasmukh,Hashmukh,Adhia
+rajiv,mehrishi,ias
+Rajiv,Mehrishi
+Ajit Doval,Ajit K Doval,ajit,doval
+Bipin Rawat,general,bipin,rawat
+Arvind Subramanian,Arvind,Subramaniam,Arvind,Subramaninan
+rbi,governor,urjit,patel,Urjit Patel,Patel-led,Urjit R Patel,Urijit Patel,Urjit R. Patel,Urjit Patels,Urjitji,Ravindra
+Arvind,Panagariya,Arvind Panagariya,Aayog,niti,Arvind Panagaria,Arvind Panagaria,Arvind Panagaraia,Aravind Panagariya,Panagaria,Panagriya
+Nasim Zaidi,Naseem Zaidi,nasem,nasim,Zaidi
+Mukesh Ambani,Mukesh D. Ambani,Mukesh,Dhirubhai,Ambani
+Ratan P Watal,Ratan Tata,Ratan Watal,Ratan P. Watal,ratan,tata,tatas,tatasons
+N R Narayana Murthy,Nagavara,Ramarao,Narayana,Murthy
+Arundhati Bhattacharya,Bhattacharya,Arundhati,Arundhathi,Araundhati Bhattacharya
+Sunil Bharti Mittal,Sunil,Bharti,Mittal
+mangalam,birla
+Anand Mahindra,Anand,Mahindra
+Vishal Sikka,vishal,sikka
+anil,ambani,reliance
+Azim Premji,azim,premji
+Kamath,Kundapur,Vaman
+rajiv,bajaj
+Jagdish Singh Khehar,Jagadish Singh Kehar,Jagadish,Jagadish Shettar,Jagadish,Kehar,khehar,chief,Jagdish,justice
+Dipak Misra,dipak,misra,mishra
+Mukul Rohatgi,Mukul Rohatgis,Mukul,Rohtagi,attorney,general
+J. Chelameswar,Chelameswar,Jasti,judge
+RM,lodha,chief justice,justice,chief
+Virat Kohli,virat,kohli,captain
+Baba Ramdev,Guru Baba Ramdev,Baba,ramdev,ramadev,guru,guruji,ramdevji
+aamir,amir,khan
+Shah Rukh Khan,Shah rukh,Shah Rukh Khans,khans
+Kangana Ranaut,Kangana,Ranaut
+Karan Johar,karan,johar
+Salman Khan,Salman,Khans,khan
+Priyanka,chopra,Priyanka,Priyanka Chopra
+Mohan Bhagwat,Mohan,Bhagwat,Bhagwats,Bhagawat
+Rohinton Nariman,Rohinton,Fali,Nariman
+vinod,rai
+Soli Sorabjee,Soli,Sorabjee
+Abdul Kalam,Abdul Malik,Kalam,Abdul Kalams,Abdul Karim,abdul,kalam,Avul,APJ,Pakir,Jainulabdeen,kalamji
+Abhijit Banerjee,Abhijit,Vinayak,Banerjee,Abhijit Binayak Banerjee,banerji
+Amartya Sen,Amrtya Sen,amartya,sem,amrtya
+Arvind Panagariya,Aayog Arvind,Panagaria,Panagariya,Panagaraia,Panagariya,Aravind,Panagaria,Arvind Panagriya
+Bibek Debroy,bibek,debroy
+Brahma Chellaney,Brahma,brahma,chellaney
+Jagdish Bhagawati,Jagdish Bhagwati,Jagdish Bhagwatis,jagdish,bhagwati,bhagawati
+Jayati Ghosh,jayati,ghosh,jayti
+Jean Drze,Jean Dreze,jean,dreze,drze
+Kaushik Basu,P.K. Basu,Karthik,P.K. Babu,Babu,kaushik,basu
+Madhav Gadgil,madhav,gadgil
+Mahmood Madani,mahmood,madani
+Raghuram,Rajan,govind,Raghuraman,Raghuram,Raghuram,Rajans,Rajanna,Rajan,Raguhuram Rajan
